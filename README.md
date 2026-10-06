@@ -34,3 +34,5 @@ The data is not included in this repo. Download it from Kaggle and place the CSV
 ## How to Run
 pip install -r requirements.txt
 jupyter notebook energy_consumption_analysis.ipynb
+
+## View the notebook with outputs on Kaggle: https://www.kaggle.com/code/khushiag200305/notebooke633265425
